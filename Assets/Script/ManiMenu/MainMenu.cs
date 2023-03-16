@@ -8,4 +8,9 @@ public class MainMenu : MonoBehaviour
     {
         SceneController.instance.LoadToScene(name);
     }
+
+    public void QuitGame()
+    {
+        Application.Quit();
+    }
 }

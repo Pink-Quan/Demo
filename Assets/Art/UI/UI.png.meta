@@ -11237,7 +11237,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_540
+      name: UI_Cursor1
       rect:
         serializedVersion: 2
         x: 484
@@ -17494,6 +17494,27 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: UI_X
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 862
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46533712a036c544b6cb2b7cea5c569
+      internalID: -1403659095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -17685,9 +17706,8 @@ TextureImporter:
       UI_191: -692552566
       UI_598: 186054479
       UI_510: 1206546866
-      UI_540: -1235833413
-      UI_169: -147284332
       UI_702: -350542519
+      UI_169: -147284332
       UI_482: 1919779286
       UI_377: 99854882
       UI_693: 1976239877
@@ -17828,6 +17848,7 @@ TextureImporter:
       UI_769: -1621228719
       UI_565: 760355191
       UI_421: -121290395
+      UI_X: -1403659095
       UI_20: 239566918
       UI_399: 1865740970
       UI_266: -2110929810
@@ -18313,6 +18334,7 @@ TextureImporter:
       UI_29: 546187835
       UI_534: -1913736891
       UI_715: 1155099591
+      UI_Cursor1: -1235833413
       UI_6: -1431777380
       UI_669: 1315069790
       UI_440: -915065449
