@@ -22,8 +22,8 @@ public class CharacterAnim : MonoBehaviour
     private void OnEnable()
     {
         SetDirection(moveDirection);
-        if (animator != null)
-            StartCoroutine(UpdateSprite());
+        //if (animator != null)
+        //    StartCoroutine(UpdateSprite());
 
     }
 
